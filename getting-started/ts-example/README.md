@@ -63,7 +63,7 @@ $ npm install \
   @opentelemetry/instrumentation \
   @opentelemetry/instrumentation-http \
   @opentelemetry/instrumentation-express \
-  @@opentelemetry/resources \
+  @opentelemetry/resources \
   @opentelemetry/semantic-conventions
 ```
 
